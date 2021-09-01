@@ -1,6 +1,6 @@
 {
-    "name": "H-9",
-    "description": "H-9",
+    "name": "N-9",
+    "description": "N-9",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/DaoChen6/H-9",
-    "repository": "https://github.com/DaoChen6/H-9",
+    "website": "https://github.com/DaoChen6/N-9",
+    "repository": "https://github.com/DaoChen6/N-9",
     "stack": "container"
 }
