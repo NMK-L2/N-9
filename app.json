@@ -1,6 +1,6 @@
 {
-    "name": "HC-K2",
-    "description": "HC-K2",
+    "name": "H-9",
+    "description": "H-9",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/DaoChen6/HC-K2",
-    "repository": "https://github.com/DaoChen6/HC-K2",
+    "website": "https://github.com/DaoChen6/H-9",
+    "repository": "https://github.com/DaoChen6/H-9",
     "stack": "container"
 }
